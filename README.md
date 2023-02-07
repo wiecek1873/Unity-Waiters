@@ -10,10 +10,10 @@ Paste Waiters.cs file into your Unity Project
 
 ## Usage
 ```cs
-  ...
+  //Your code
   
   float _waitTime = 2f;
   yield return Waiters.WaitForSeconds(_waitTime);
 
-  ...
+  //Your code
 ```
