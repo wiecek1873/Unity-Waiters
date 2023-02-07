@@ -2,9 +2,8 @@
 Static pool with coroutine waiters.
 
 ## Pros
-No garbage collection.
-
-No more cached WaitForSeconds.
+- No garbage collection.
+- No more cached WaitForSeconds.
 
 ## Installation
 Paste Waiters.cs file into your Unity Project
