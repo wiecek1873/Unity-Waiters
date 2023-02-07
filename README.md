@@ -3,6 +3,7 @@ Static pool with coroutine waiters.
 
 ## Pros
 No garbage collection.
+
 No more cached WaitForSeconds.
 
 ## Installation
