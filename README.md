@@ -14,6 +14,4 @@ Paste Waiters.cs file into your Unity Project
   
   float _waitTime = 2f;
   yield return Waiters.WaitForSeconds(_waitTime);
-
-  //Your code
 ```
