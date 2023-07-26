@@ -1,4 +1,4 @@
-# Unity-Waiters
+# Unity Waiters
 Static pool with coroutine waiters.
 
 ## Pros
